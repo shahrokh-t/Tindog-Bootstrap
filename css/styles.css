@@ -17,13 +17,6 @@ p {
 .big-heading {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
-    font-size: 3rem;
-    line-height: 1.5;
-}
-
-.section-heading {
-    font-size: 2.5rem;
-    line-height: 1.5;
 }
 
 /* Containers */
@@ -51,7 +44,6 @@ p {
 
 .navbar-brand {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 2.5rem;
     font-weight: bold;
 }
 
@@ -60,7 +52,6 @@ p {
 }
 
 .nav-link {
-    font-size: 1.2rem;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
 }
@@ -92,9 +83,6 @@ p {
 
 /* Features Section */
 
-.feature-title {
-    font-size: 1.5rem;
-}
 
 .feature-box {
     padding: 4.5%;
@@ -114,11 +102,6 @@ p {
 
 #testimonials {
     background-color: #EF8172;
-}
-
-.testimonial-text {
-    font-size: 2.5rem;
-    line-height: 1.5;
 }
 
 .testimonial-image {
@@ -142,11 +125,6 @@ p {
 
 #pricing {
     padding:100px;
-}
-
-.price-text {
-    font-size: 2.5rem;
-    line-height: 1.5;
 }
 
 .pricing-column {
